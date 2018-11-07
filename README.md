@@ -11,8 +11,6 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### How getting Started?
 
-There are two methods for getting started with this repo.
-
 To initialize this app, you need download this repo and follow these steps:
 
 ```
